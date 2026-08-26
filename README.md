@@ -63,3 +63,13 @@ sostituisce il documento commerciale del registratore telematico.
 Un solo file, `index.html`, con dentro tutto: design system in stile iOS,
 icone SVG, logica e dati. Nessun build step. `vercel.json` serve solo se lo
 pubblichi su Vercel.
+
+## Altro in questo repository
+
+`ristorante/` contiene un secondo gestionale, indipendente da questo: un
+**sistema completo per ristorante, bar e servizio agli hotel** — sala e piantina
+tavoli, comande, monitor cucina, magazzino, personale e turni, colazioni per gli
+hotel vicini, briefing giornaliero, slogan, volantini e schermo LED, in sei
+lingue (italiano, inglese, francese, spagnolo, tedesco, arabo). Anche quello è un
+unico file HTML senza dipendenze: si apre da `ristorante/index.html`. La
+documentazione è in [`ristorante/README.md`](ristorante/README.md).

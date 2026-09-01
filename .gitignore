@@ -1,3 +1,6 @@
 node_modules/
 .DS_Store
 *.log
+dati.json
+dati.json.tmp
+stampanti.json
